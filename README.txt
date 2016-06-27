@@ -1,0 +1,1 @@
+Scripts for downloading the NCBI-assigned MeSH terms annotated to abstracts of articles in ChEMBL. Downloads using ENTREZ Biopython module from NCBI web services into one's own user area/Oracle tables.
