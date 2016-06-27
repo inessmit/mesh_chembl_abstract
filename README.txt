@@ -1,1 +1,1 @@
-Scripts for downloading the MeSH terms assigned by the NCBI to abstracts of articles in ChEMBL. These scripts use the Entrez module from Biopython module which connects to the NCBI  web services.
+Scripts for downloading the MeSH terms assigned by the NCBI to abstracts of articles in ChEMBL. These scripts use the Entrez module from Biopython module which connects to the NCBI  web services. Inserts the downloaded terms into own user area Oracle tables.
